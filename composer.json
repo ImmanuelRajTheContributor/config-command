@@ -23,5 +23,8 @@
             "config set",
             "config get"
         ]
+    },
+    "require-dev": {
+        "behat/behat": "^3.14"
     }
 }
